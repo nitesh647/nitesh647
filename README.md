@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @nitesh647
+- 👀 I’m interested in python and web development...
+- 🌱 I’m currently machine learning ...
+- 📫 How to reach me .. my email is- vashisthnitesh47@gmail.com...
+
+<!---
+nitesh647/nitesh647 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
